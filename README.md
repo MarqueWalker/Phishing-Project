@@ -19,7 +19,7 @@ data analysis, and data presentation and practiced them in a real-world context.
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerPoint</b> 
-- 
+  
 
 <h2>Environments Used </h2>
 
