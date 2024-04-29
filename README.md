@@ -1,29 +1,29 @@
 # Phishing-Project
 
 <h2>Description</h2>
+
 Mastercard Cybersecurity virtual experience 
 * Completed a job simulation where I served as an analyst on "Mastercard's Security Awareness Team" 👮🏾‍♂️🧑‍💻
 * Helped identify and report security threats such as phishing 🎣📨
 * Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
-I worked on a project to identify phishing emails and design security awareness training courses. Through this job simulation, I built my skills in problem-solving, data analysis, and data presentation and practiced them in a real-world context.
+I worked on a project to identify phishing emails and design security awareness training courses. Through this job simulation, I built my skills in problem-solving,
+data analysis, and data presentation and practiced them in a real-world context.
 
 
 
  
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>PowerPoint</b> 
+- 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Mac OS </b> (21H2)
 
 <h2>Program walk-through:</h2>
 
