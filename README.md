@@ -1,10 +1,10 @@
-# Phishing-Project
+# Phishing-Project 🎣📨
 
 <h2>Description</h2>
 
 Mastercard Cybersecurity virtual experience 
 * Completed a job simulation where I served as an analyst on "Mastercard's Security Awareness Team" 👮🏾‍♂️🧑‍💻
-* Helped identify and report security threats such as phishing 🎣📨
+* Helped identify and report security threats such as phishing 🥷📧
 * Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
 I worked on a project to identify phishing emails and design security awareness training courses. Through this job simulation, I built my skills in problem-solving,
 data analysis, and data presentation and practiced them in a real-world context.
