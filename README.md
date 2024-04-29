@@ -23,7 +23,7 @@ data analysis, and data presentation and practiced them in a real-world context.
 
 <h2>Environments Used </h2>
 
-- <b>Mac OS </b> (21H2)
+- <b>Mac OS </b> 
 
 <h2>Program walk-through:</h2>
 
