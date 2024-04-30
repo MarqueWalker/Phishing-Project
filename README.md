@@ -47,8 +47,8 @@ Addressing The Team: <br/>
 
 
 <p align="center">
-Addressing The Team: <br/>
-<img src="https://imgur.com/sTSxsR3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The Problem : <br/>
+<img src="https://imgur.com/MZnuQRV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
