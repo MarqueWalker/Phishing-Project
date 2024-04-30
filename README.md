@@ -58,11 +58,25 @@ Be Proactive  : <br/>
 <br />
 <br />
 
+
+<p align="center">
+The Hook  : <br/>
+<img src="https://imgur.com/eI1tAbc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
+
+
 <p align="center">
 Mistakes Can Hurt Your Organization   : <br/>
 <img src="https://imgur.com/lDTtJeE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+
+
 
 <p align="center">
 The Solution   : <br/>
