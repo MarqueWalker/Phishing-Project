@@ -52,6 +52,12 @@ The Problem : <br/>
 <br />
 <br />
 
+<p align="center">
+Be Proactive  : <br/>
+<img src="https://imgur.com/33sILxO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 
 
