@@ -59,7 +59,7 @@ Be Proactive  : <br/>
 <br />
 
 <p align="center">
-Mistake Can Hurt Your Organization   : <br/>
+Mistakes Can Hurt Your Organization   : <br/>
 <img src="https://imgur.com/lDTtJeE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
