@@ -39,6 +39,13 @@ Addressing The Team: <br/>
 <br />
 <br />
 
+<p align="center">
+Addressing The Team: <br/>
+<img src="https://imgur.com/sTSxsR3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
