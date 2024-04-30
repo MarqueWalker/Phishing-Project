@@ -64,6 +64,12 @@ Mistakes Can Hurt Your Organization   : <br/>
 <br />
 <br />
 
+<p align="center">
+The Solution   : <br/>
+<img src="https://imgur.com/L2uL4bq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 
 
