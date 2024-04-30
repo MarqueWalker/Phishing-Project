@@ -33,9 +33,9 @@ Security Awareness Training  <br/>
 <br />
 <br />
 
-
+<p align="center">
 Enter the number of passes: <br/>
-<img src="https://imgur.com/a/Eb3MOyZ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/z5RwKXc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
